@@ -6,7 +6,7 @@ $objgen		=	new general();
 
 
 
-//$where = "";
+//$where = "";wewwewewe
 
 $where = "";
 $row_count = $objgen->get_AllRowscnt("exam_list",$where);
